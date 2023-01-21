@@ -1,5 +1,7 @@
 # ISO 27018 Weekopdracht 11
 
+![This is a image](https://github.com/clone11112/weekopdracht-11/blob/main/ISO-27018-Certification-Emblem.png)
+
 ## Wat is dit nu voor standaard/framework?
 De framework van ISO 27018 is een internationale standaard die gemaakt is om data te beschermen in de Cloud op basis van de algemene privacy standaard ISO 27002. De standaard beschrijft beveiligingsmaatregelen en governance-princeples die gevolgd worden door publieke Cloud providers om data te beschermen van klanten. Zoals eerder vermeld richt deze standaard zich op de bescherming van data en dit zorgt er ook voor dat publieke Cloud providers zoals Amazon Web Services, Microsoft Azure en Google Cloud Platform te voldoen aan wetgeving op het gebied van databescherming. Een voorbeeld van zo’n wet is de general data protection regulation die binnen de Europese Unie geldt. Hierdoor weten bedrijven die naar de Cloud willen dat de Cloud providers voldoen aan bepaalde eisen. Hij werd in 2014 gemaakt na de opkomst van Cloud en is ververst in januari 2019.
 
